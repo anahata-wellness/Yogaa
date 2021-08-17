@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>anahata-wellness</title>
+	<title>Anahata Wellness Center</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description>Just another WordPress site</description>
+	<description>Yoga for everyone!</description>
 	<lastBuildDate>Sun, 20 Jun 2021 14:25:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
